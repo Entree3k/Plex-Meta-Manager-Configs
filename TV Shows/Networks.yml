@@ -40,7 +40,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/257921
 
   Anime:
-    template: { name: network, network: "Fuji TV, Niconico, Nippon TV, WOWOW Prime, NHK G, MBS, TV Tokyo, ANIMAX, Tokyo MX, Anime Network, Anime Houdai, d Anime Store, AT-X" }
+    template: { name: network, network: "Fuji TV, Niconico, Chiba TV, Nippon TV, WOWOW Prime, NHK G, MBS, TV Tokyo, ANIMAX, Tokyo MX, Anime Network, Anime Houdai, d Anime Store, AT-X" }
     summary: Anime is hand-drawn and computer-generated animation originating from Japan. Outside of Japan and in English, anime refers specifically to animation produced in Japan. However, in Japan and in Japanese, anime describes all animated works, regardless of style or origin.
     url_poster: https://theposterdb.com/api/assets/259809
 
