@@ -137,7 +137,7 @@ collections:
   ITV:
     template: { name: network, network: "ITV, ITV2, ITV3, ITV4, ITVBe, CITV" }
     summary: ITV is a British free-to-air television network. It was launched in 1955 as Independent Television to provide competition to BBC Television. ITV is the oldest commercial network in the UK. Since the passing of the Broadcasting Act 1990, its legal name has been Channel 3 to distinguish it from the other analogue channels at the time, BBC1, BBC2 and Channel 4.
-    url_poster: https://i.imgur.com/JOgpjDq.jpg
+    url_poster: https://theposterdb.com/api/assets/264997
 
   MTV:
     template: { name: network, network: "MTV, MTV (AU/NZ), MTV (UK), MTV2, MTV3" }
