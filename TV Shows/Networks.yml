@@ -74,6 +74,11 @@ collections:
     summary: Channel 4 is a British free-to-air public-service television network. Its headquarters are in London, with a national headquarters in Leeds and creative hubs in Glasgow and Bristol. The channel was established to provide a fourth television service to the United Kingdom in addition to the licence-funded BBC One and BBC Two, and the single commercial broadcasting network ITV.
     url_poster: https://theposterdb.com/api/assets/222016
 
+  Channel 5:
+    template: { name: network, network: "Channel 5" }
+    summary: Channel 5 is a British free-to-air television network launched in 1997. It is the fifth national terrestrial channel in the United Kingdom and is owned by Channel 5 Broadcasting Limited, a wholly-owned subsidiary of American media conglomerate Paramount Global, which is grouped under Paramount Networks UK & Australia division.
+    url_poster: https://theposterdb.com/api/assets/265035
+
   Cinemax:
     template: { name: network, network: "Cinemax" }
     summary: Cinemax is an American premium cable and satellite television network owned by the Home Box Office, Inc. subsidiary of WarnerMedia Studios & Networks Group.
